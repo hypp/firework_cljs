@@ -1,8 +1,6 @@
 # fireworks-cljs
 
 This is a simple firework effect that I made just to learn ClojureScript
-A simple firework effect
-A Clojure library designed to ... well, that part is up to you.
 
 ## License
 
